@@ -20,7 +20,7 @@ import java.util.Scanner;
 
 
 
-//public class HelloWorld {
+//public class HelloWorld/*此处名称必须与.java文件名相同*/ {
 //
 //    public static void main(String[] args) {
 //        // Prints "Hello, World" to the terminal window.
